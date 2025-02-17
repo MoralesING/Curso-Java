@@ -32,11 +32,7 @@ public class POO {
         persona2.informacion();
         persona3.informacion();
 
-        //Encapsulamiento: Proteje los datos al evitar que se modifiquen directamente, 
-        //permite aplicar validaciones, modificar los atributos sin afectar los metodos.
-        //Se maneja atrasvez de dos comandos, getters y setters, se debe especificar 
-        //que tipo de encapsulamiento se usa. con /private /public /protected con la 
-        //asignacion de los atributos. el mas usado es private.
+        
         claseMascota mascota1 = new claseMascota("perro","labrador");
 
         // acceder a los datos con getter 

@@ -18,7 +18,7 @@ public class claseEstudiante extends clasePersona {
     }
 
     public void saludar(){ 
-        //Metodo heredado se llama tambine con el comando super
+        //Metodo heredado se llama tambien con el comando super
         super.saludar();
     
     }

@@ -1,18 +1,21 @@
-## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+# Curso-Java
 
-## Folder Structure
+Esta es una guia de apoyo para aprender java.
+La rama principal es: 
 
-The workspace contains two folders by default, where:
+POO.java donde van a encontrar Instanciaciones con su informacion. 
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+# Fundamentos de Clases
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## clasePersona:  
+Encontraran informacion de atributos, constructores
+y metodos.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## claseEstudiante:
+Encontraran informacion de las Herencias, subclases, 
+clase padre atributos y metodos heredados
 
-## Dependency Management
+## claseMascota: 
+Encontraran informacion de Encapsulamiento, getters y setters.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
